@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="algorepo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/algorepo_jar</output-path>
+    <root id="archive" name="algorepo.jar">
+      <element id="module-output" name="algorepo" />
+    </root>
+  </artifact>
+</component>
